@@ -1,5 +1,5 @@
 # software-creature-pl-oberonlike-dsl
-PLSC
+`.plsc`
 
 ## Project using this DSL
   * https://github.com/hypnosis-i2p/software-creature
