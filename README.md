@@ -1,4 +1,4 @@
-# software-creature-pl-oberonlike-dsl definition repo
+# software-creature-pl-oberonlike-dsl definition monorepo
 `.plsc`
 
 Copyright &copy; 2026 Evgenii Grigoriewitch Philippov. All Rights Reserved.
